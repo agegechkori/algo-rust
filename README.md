@@ -1,2 +1,3 @@
-# algo-rust
-Algorithms implemented in Rust
+# Algorithms in Rust
+
+Algorithms implemented in Rust.
